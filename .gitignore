@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Data files (uncomment if you don't want to commit data)
+# *.csv
+# *.xlsx
+# *.json
+# data/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Model files (if you save models)
+*.pkl
+*.joblib
+*.h5
+*.model
+
+# Helper/documentation files (internal planning docs, not needed in repo)
+CHECKLIST.md
+GITHUB_PREPARATION_PLAN.md
+PROJECT_STATUS.md
+GITHUB_FILES_GUIDE.md
+*executed*.ipynb
+
